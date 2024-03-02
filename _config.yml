@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Argun Aman / Personal Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Argun Aman"
 description              : &description "personal description"
@@ -21,12 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture_1.jpg"
   name             : "Argun Aman"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student at the University of Mannheim"
+  bio              : "PhD student at the University of Mannheim"
   location         : "Mannheim, Germany"
-  employer         : "University of Mannheim, ZEW Mannheim"
+  employer         : "University of Mannheim"
+  # employer         : "ZEW Mannheim"
   uri              : # URL
   email            : "argun.aman@uni-mannheim.de" 
 
@@ -279,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
