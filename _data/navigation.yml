@@ -3,8 +3,8 @@ main:
 # TODO: add home. research, bio, contact.
   # - title: "Publications"
   #   url: /publications/
-  # - title: "Home"
-  #   url: /
+  - title: "Home"
+    url: /
 
   - title: "Research"
     url: /research/
