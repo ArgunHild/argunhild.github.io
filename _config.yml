@@ -12,9 +12,9 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Argun Aman"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://argunaman2022.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "argunaman2022/argunaman2022.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Mannheim"
   location         : "Mannheim, Germany"
-  employer         : "University of Mannheim"
+  employer         : "University of Mannheim <br> ZEW Mannheim"
   # employer         : "ZEW Mannheim"
   uri              : # URL
   email            : "argun.aman@uni-mannheim.de" 
@@ -286,7 +286,7 @@ timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
