@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,62 +8,49 @@ redirect_from:
 ---
 
 {% include base_path %}
-Current Position
+
+[Download CV (PDF)](/files/CV_Argun_Aman.pdf){: .btn#button-theme}
+
+Last updated: 03.2024.
+
+Positions
 ======
-* TA, Economics Department, University of Mannheim
-* Reseracher, Market Design unit, ZEW, Mannheim
+- TA, Economics Department, University of Mannheim (since 2022)   
+- Researcher, Market Design unit, ZEW, Mannheim (since 2023)   
 
 
-<!-- Education
+Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Economics, University of Mannheim (expected 2026)
+- M.A. Economics, Central European University (2020)
+- B.Sc. Economics, ADA University (2018)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Academic Controbutions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-  Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., and the Management Science Reproducibility Collaboration (forthcoming). Reproducibility in Management Science. Management Science.
 
-Publications
+
+Past Positions
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- Research Assistant, Market Design, ZEW Mannheim (2022-23)
+- Research Assistant, Central European University (2019-20)
+- Research Assistant, ADA University (2016)
+
+Workshops and Preseantations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+- 2024: Mannheim Experimental Seminar; Heidelberg-Karlsruhe-Mannheim experimental workshop; Market Design Research Seminar; Market Design Research Retreat
+- 2023: Mannheim Experimental Seminar; Heidelberg-Karlsruhe-Mannheim experimental workshop; Market Design Research Seminar; HUB for Field Experiments Seminar
+- 2022: Innsbruck Winter School on Credence Goods, Incentives, and Behavior
+- 2021: Mainz Summer School on Advanced Methods in Behavioral Economics
+
+Scholarships and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+- CEU Master's Scholarship (Masters, 2018-20)
+- Dean's List of Distinction (Bachelors, 2014-18)
+
+Other
 ======
-* Currently signed in to 43 different slack teams -->
+- Technical skills: Python, R, STATA, MATLAB, JavaScript
+- Languages: English, German, Turkish, Azerbaijani
