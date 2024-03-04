@@ -10,7 +10,7 @@ sitemap: false
 - Paper 2: Description of paper 2. -->
 
 ## Work in Progress
-- **Why don’t you deduct to donate more?** Joint work with Michael Hilweg.
+- [**Why don’t you deduct to donate more?**](/projects/032024Why-dont-you-deduct) Joint work with Michael Hilweg.
     - *Anecdotal evidence suggests very low rates of tax deduction for in-person donations in the field. Teaming up with a large Austrian charitable organization, we analyze their historical data and persistently document this phenomenon. To examine the reasons for this negligence of tax incentives, we first implement a representative online survey to collect beliefs on the moral perception of deduction and reasons for which people may be hesitant to deduct. The survey suggests social image concerns and a lack of information for the majority of the population as main drivers. Building on this, we run both an online and a field experiment to study the role of procedural information and social image in more detail. Our results suggest that a mere lack of information on how to deduct one’s donations cannot explain the low rates of deduction for field donations. Similarly, providing people with second-order beliefs on the moral perception of deducting did not induce a higher deduction propensity.*
     - Data collection and analysis completed. Working on first draft!
 - **Role of stereotypes in the gender competition gap.** Joint work with Michael Hilweg.
