@@ -1,6 +1,7 @@
 ---
 title: Research
 permalink: /research/
+sitemap: false
 ---
 
 <!-- ## Published Work

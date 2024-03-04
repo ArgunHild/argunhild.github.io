@@ -27,7 +27,7 @@ Education
 
 
 
-Academic Controbutions
+Academic Contributions
 ======
 -  Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., and the Management Science Reproducibility Collaboration (forthcoming). Reproducibility in Management Science. Management Science.
 
