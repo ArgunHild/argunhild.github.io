@@ -9,9 +9,12 @@
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
+      {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+      <div style='text-align: center; margin-left: -18px;'> 
+        <figcaption style='font-size: 0.5em;'>©ZEW</figcaption>
+      </div>
+      {% endif %}
   </div>
 
   <div class="author__content">

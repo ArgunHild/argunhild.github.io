@@ -8,4 +8,4 @@ sitemap: false
 #   - /about.html
 ---
 
-I am a fourth year PhD student at the University of Mannheim, primarily working in Behavioral and Experimental economics. I am also a researcher at the Market Design unit, ZEW Mannheim. I did my masters at the Central European University, Budapest (now Vienna) where I also worked as a research assistant. 
+I am a doctoral candidate at the University of Mannheim, primarily working in Behavioral and Experimental economics. My research focuses on second-order beliefs (beliefs about beliefs), specifically in charitable giving, gender competition gap, and repugnant markets. 

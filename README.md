@@ -1,3 +1,16 @@
+# Getting around
+
+1. Navigation buttons: in _data/navigation
+2. to add new pages: 
+    1. create a new .md file in _pages.
+    2. Add them to navigation
+3. To add clickable research articles:
+    1. Create an entry in the Research page
+    2. Create another md article in projects/... and link it just like other projects
+
+
+
+
 
 # Academic Pages
 
