@@ -15,7 +15,7 @@ Email
 - argun.aman@zew.de
 
 
-Adress
+Address
 ======
 University of Mannheim, <br> L 3-5, S007, <br> 68161, Mannheim, Germany
 
