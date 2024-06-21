@@ -8,4 +8,4 @@ sitemap: false
 #   - /about.html
 ---
 
-I am a doctoral candidate at the University of Mannheim, primarily working in Behavioral and Experimental economics. My research focuses on second-order beliefs (beliefs about beliefs), specifically in charitable giving, gender competition gap, and repugnant markets. 
+I am a doctoral candidate at the University of Mannheim, primarily working in Behavioral and Experimental economics. My research focuses how beliefs as well as beliefs about beliefs shape our behavior. Currently, I am working on the topics related to gender differences and charitable giving.
