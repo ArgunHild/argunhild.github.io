@@ -10,7 +10,7 @@ sitemap: false
 - Paper 2: Description of paper 2. -->
 
 ## Work in Progress
-- **Competing Against Stereotypes: Meta-Study of Gender Differences in Competitiveness.** Joint work with Michael Hilweg-Waldeck.
+- **Competing Against Stereotypes: Gender Stereotypes, Beliefs, and Willingness To Compete.** Joint work with Michael Hilweg-Waldeck.
     - *The experimental literature on gender differences in competitiveness has published over 280 studies, each utilizing a particular real-effort task. We exploit the natural variation in task-specific gender stereotypes to examine how stereotypes shape gender differences in competitiveness. In our meta-study, we compile data on gender competition and performance levels from previous studies. In addition, we collect beliefs about performance differences through an online experiment (n=765). Our key finding is that stereotypical beliefs, rather than actual performance differences, explain the variation in gender competition gaps across tasks. In a followup laboratory experiment (n = 749), we manipulate stereotypes through framing and informational cues about others’ beliefs. These interventions shift stereotypical beliefs, but the changes are not large enough to affect gender differences in competitiveness.*
     - Draft available soon.
 - **Why don’t you deduct to donate more?**  Joint work with Michael Hilweg-Waldeck.
