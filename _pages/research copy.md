@@ -17,11 +17,16 @@ sitemap: false
 
 ## Work in Progress
 -  **Inequality as a Constraint on (Repugnant) Markets.** Joint work with Jakob Schmidhäuser.
-
+    <!-- - *Literature has established that third parties are opposed to certain transactions even when they impose no direct externalities on them. Such repugnant transactions are broadly viewed as a constraint on markets. While various reasons for the emergence of repugnance have been discussed, we propose economic inequality as an important channel. In our experiment, people judge 9 different economic transactions in two inequality and one equality treatment. We elicit the main dimensions of repugnance suggested by the literature as well as the willingness to ban each transaction. Our novelty is twofold. First, we are the first to study how inequality affects repugnance. Second, we establish the role of descriptive norms in the context of repugnance by eliciting beliefs about others' choices.* 
+    - Working on the first draft. -->
     
 - **Navigating Complexity: Dynamic Mechanisms and Algorithmic Assistance in Behavioral Market Design.** Joint work with Gian Caspari, Michael Hilweg-Waldeck, Manshu Khanna, Vincent Meisner.
-
+    <!-- - *We study the impact of non-standard choice behavior on performance of matching mechanisms. We have planned a series of experiments to compare sequential mechanisms with different menu sizes and levels of choice complexity. By doing so, our objective is to gain a deeper understanding of the challenges presented by non-standard choice behavior and provide insights and potential strategies for enhancing mechanism performance. Furthermore, we plan to expand on the existing theoretical framework to incorporate our experimental findings.*
+    - Working on the experimental design. -->
 -  **Think Before You Act.** Joint work with Michael Hilweg-Waldeck and Jonathan Stäbler.
 -  **Meritocracy.** Joint work with Henrik Orzen and Jonathan Stäbler.
+<!-- -  **Don’t Hate Your Luck, Hate Its Shape.** Joint work with Michael Hilweg-Waldeck. -->
+<!-- - *We explore how the optimal contest size in winner-takes-all tournaments responds to the shape of noise parameter's (luck's) distribution. Our theory predicts that, when good/bad luck outcomes are more likely the equilibrium effort is increasing/decreasing in the contest size. Further, the contest size that maximizes the aggregate performance under when bad luck outcomes are more likely is smaller than when good luck outcomes are more likely. However, if the objective is to maximize best possible performance the reverse is true. The reason is that while a larger contest leads to lower efforts, the benefit of having more luck draws dominates in the latter case. We plan an online experiment to confirm our theory results.*
+    - Theory section completed. Working on the experimental design. -->
 
     
