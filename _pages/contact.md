@@ -17,5 +17,5 @@ Email
 
 Address
 ======
-University of Mannheim, <br> L 3-5, S007, <br> 68161, Mannheim, Germany
+University of Mannheim, <br> L7 3-5, 4th Floor, <br> 68161, Mannheim, Germany
 
