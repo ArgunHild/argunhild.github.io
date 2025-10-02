@@ -68,7 +68,9 @@
 /*
    Author profile and links
    ========================================================================== */
-
+  .author__avatar img {
+    max-width: 250px;
+  }
 .author__avatar {
   display: table-cell;
   vertical-align: top;
