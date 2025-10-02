@@ -39,3 +39,14 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+// colors the "home" link in the nav bar to be darker
+.masthead .site-nav .nav-home a {
+  color: #8f8a8a;        /* darker text */
+}
+
+// adds spacing to the right of the "home" link in the nav bar
+.masthead .site-nav .nav-home {
+  margin-right: 40px;  /* adjust value until it looks right */
+}
