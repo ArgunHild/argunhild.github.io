@@ -50,3 +50,9 @@
 .masthead .site-nav .nav-home {
   margin-right: 40px;  /* adjust value until it looks right */
 }
+
+// makes the author avatar on the about page larger
+.author__avatar img {
+  width: 200px;   /* pick size */
+  height: auto;
+}
