@@ -19,9 +19,9 @@ sitemap: false
 -  **Inequality as a Constraint on (Repugnant) Markets.** Joint work with Jakob Schmidhäuser.
 
     
-- **Navigating Complexity: Dynamic Mechanisms and Algorithmic Assistance in Behavioral Market Design.** Joint work with Gian Caspari, Michael Hilweg-Waldeck, Manshu Khanna, Vincent Meisner.
+- **Non-Standard Choice and Matching.** Joint work with Gian Caspari, Michael Hilweg-Waldeck, Manshu Khanna, Vincent Meisner.
 
 -  **Think Before You Act.** Joint work with Michael Hilweg-Waldeck and Jonathan Stäbler.
--  **Meritocracy.** Joint work with Henrik Orzen and Jonathan Stäbler.
+-  **Meritocracy.** (tentative title) Joint work with Henrik Orzen and Jonathan Stäbler.
 
     
