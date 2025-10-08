@@ -10,7 +10,7 @@ sitemap: false
 <div style="text-align: justify;">
 I am a Ph.D. candidate in Economics at the University of Mannheim. My research examines how social and cognitive biases shape economic behavior and how targeted interventions can correct resulting market inefficiencies. I work at the intersection of behavioral and experimental economics, labor, and political economy. Currently, I study gender differences in willingness to compete and charitable giving.
 </div>
-
+<br>
 **I am on the 2025-2026 Job Market.**
 
 
