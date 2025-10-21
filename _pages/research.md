@@ -19,7 +19,7 @@ Career choice, earnings, and other key economic outcomes have been linked to gen
 <!-- TODO: add the draft once ready. -->
 
 ## Working Paper
-**Why Don’t Donors Deduct? Social Norms and the Limits of Tax Incentives** (with Michael Hilweg-Waldeck) [Draft available soon]
+**Why Don’t Donors Deduct? Social Norms and the Limits of Tax Incentives** (with Michael Hilweg-Waldeck) [Draft](/files/papers/WP_Why_Dont_You_Deduct.pdf)
 <div style="text-align: justify;">
 <em>
 Many Austrian donors leave tax benefits unclaimed even when doing so requires minimal effort and yields meaningful financial rewards. Qualitative findings from a representative survey point to confusion about how to access these benefits and to misperceived social norms on the moral appropriateness of deducting donations as the main drivers of this gap. We test concise information on deductibility and a one-sentence norm cue in an online experiment (n = 483), a door-to-door field experiment with address-level randomization (n = 6,728), and a radio-based campaign spanning two Austrian federal states. We find that almost all donors deduct when donating through the anonymous online tool. By contrast, during face-to-face fundraising, where social-image concerns are salient, fewer than 1 in 100 donors choose to do so. Across settings, information on deductibility alone leaves deduction unchanged, whereas adding the norm cue increased take-up by 0.36 standard deviations in the door-to-door setting. Our findings show that financial incentives can falter when clashing with misperceived norms in social settings, unless paired with campaigns that reshape those norms.
