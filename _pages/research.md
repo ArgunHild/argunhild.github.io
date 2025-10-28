@@ -18,7 +18,7 @@ Career choice, earnings, and other key economic outcomes have been linked to gen
 </div>
 
 ## Working Paper
-**Why Don’t Donors Deduct? Social Norms and the Limits of Tax Incentives** (with Michael Hilweg-Waldeck) [Draft available soon!]
+**Why Don’t Donors Deduct? Social Norms and the Limits of Tax Incentives** (with Michael Hilweg-Waldeck)
 [Draft](/files/papers/Hild_WP.pdf)
 <div style="text-align: justify;">
 <em>
