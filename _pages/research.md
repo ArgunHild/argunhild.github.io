@@ -28,10 +28,18 @@ Many donors leave tax benefits unclaimed even when doing so requires minimal eff
 
 
 ## Selected Works in Progress
-**Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [collecting data]
-
-    
 **Non-Standard Choice and Matching** (with Gian Caspari, Michael Hilweg-Waldeck, Manshu Khanna, Vincent Meisner) [collecting data]
+<em>
+Choice mistakes arise when individuals’ observed choices deviate from their underlying preferences, often due to cognitive overload or complex menus. This project studies such mistakes in matching markets through a controlled laboratory experiment. Participants face real-effort tasks bundled into menus of varying complexity. These are allocated via different assignment mechanisms, including classic serial dictatorship and a novel sequentialized variant. The design allows us to measure when and why mistakes occur and to evaluate how simplifying choice
+environments affects efficiency, stability, and incentive properties of market design.
+</em>
+    
+**Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [collecting data]
+<em>
+Repugnant markets, such as organ sales, are often prohibited despite potential efficiency gains. We examine whether income inequality between transacting parties drives societal repugnance toward such transactions. Using vignettes depicting various transactions ranging from organ sales to waste trade on a U.S. sample, we find that inequality does not increase willingness to prevent repugnant transactions, in contrast to theoretical expectations. Instead, results suggest that weak egalitarian norms in the U.S. may mute sensitivity to inequality. To test this mechanism, we are replicating the study in Scandinavian countries, where egalitarian values are stronger. This cross-country
+comparison will provide new evidence on how inequality and cultural norms shape public acceptance of contested markets and inform debates on market regulation.
+</em>
+
 
 **Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
 
