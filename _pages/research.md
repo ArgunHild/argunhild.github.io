@@ -43,6 +43,6 @@ comparison will provide new evidence on how inequality and cultural norms shape 
 
 **Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
 
-**Meritocracy** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [planning experiments]
+**Meritocracy** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [designing experiment]
 
     
