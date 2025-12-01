@@ -36,7 +36,9 @@ environments affects efficiency, stability, and incentive properties of market d
 </em>
 </div>
 
-    
+<br>
+
+
 **Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [collecting data]
 <div style="text-align: justify;">
 <em>
