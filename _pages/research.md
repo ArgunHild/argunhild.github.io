@@ -37,6 +37,7 @@ environments affects efficiency, stability, and incentive properties of market d
 </div>
 
 <br>
+<br>
 
 
 **Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [collecting data]
@@ -47,6 +48,8 @@ comparison will provide new evidence on how inequality and cultural norms shape 
 </em>
 </div>
 
+<br>
+<br>
 
 **Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
 
