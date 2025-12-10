@@ -48,8 +48,8 @@ Repugnant markets, such as organ sales, are often restricted even when they coul
 
 <br>
 
-**Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
-
 **Meritocracy and Social Cohesion** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [designing experiment]
+
+**Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
 
     
