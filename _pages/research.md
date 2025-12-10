@@ -39,11 +39,10 @@ environments affects efficiency, stability, and incentive properties of market d
 <br>
 
 
-**Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [collecting data]
+**Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [working on draft]
 <div style="text-align: justify;">
 <em>
-Repugnant markets, such as organ sales, are often prohibited despite potential efficiency gains. We examine whether income inequality between transacting parties drives societal repugnance toward such transactions. Using vignettes depicting various transactions ranging from organ sales to waste trade on a U.S. sample, we find that inequality does not increase willingness to prevent repugnant transactions, in contrast to theoretical expectations. Instead, results suggest that weak egalitarian norms in the U.S. may mute sensitivity to inequality. To test this mechanism, we are replicating the study in European countries, where egalitarian values are stronger. This cross-country
-comparison will provide new evidence on how inequality and cultural norms shape public acceptance of contested markets and inform debates on market regulation.
+Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. Using vignette experiments in the United States and Europe, we find clear cross country differences in baseline attitudes. Europeans show stronger repugnance concerns overall. They are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. Across both samples, inequality between parties is a powerful predictor of repugnance. Transactions are viewed as most objectionable when a poor individual sells to a rich individual and least objectionable when both parties are rich. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation.
 </em>
 </div>
 
