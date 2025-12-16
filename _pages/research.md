@@ -26,6 +26,9 @@ Many donors leave tax benefits unclaimed even when doing so requires minimal eff
 </em>
 </div>
 
+## Selected Works in Progress
+
+
 **Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [working on draft]
 <div style="text-align: justify;">
 <em>
@@ -36,7 +39,6 @@ Repugnant markets, such as organ sales, are often restricted even when they coul
 <br>
 
 
-## Selected Works in Progress
 **Non-Standard Choice and Matching** (with Gian Caspari, Michael Hilweg-Waldeck, Manshu Khanna, Vincent Meisner) [collecting data]
 <div style="text-align: justify;">
 <em>
