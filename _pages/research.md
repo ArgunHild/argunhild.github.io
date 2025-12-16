@@ -26,6 +26,15 @@ Many donors leave tax benefits unclaimed even when doing so requires minimal eff
 </em>
 </div>
 
+**Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [working on draft]
+<div style="text-align: justify;">
+<em>
+Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. Using vignette experiments in the United States and Europe, we find clear cross country differences in baseline attitudes. Europeans show stronger repugnance concerns overall. They are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. Across both samples, inequality between parties is a powerful predictor of repugnance. Transactions are viewed as most objectionable when a poor individual sells to a rich individual and least objectionable when both parties are rich. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation.
+</em>
+</div>
+
+<br>
+
 
 ## Selected Works in Progress
 **Non-Standard Choice and Matching** (with Gian Caspari, Michael Hilweg-Waldeck, Manshu Khanna, Vincent Meisner) [collecting data]
@@ -39,17 +48,11 @@ environments affects efficiency, stability, and incentive properties of market d
 <br>
 
 
-**Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [working on draft]
-<div style="text-align: justify;">
-<em>
-Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. Using vignette experiments in the United States and Europe, we find clear cross country differences in baseline attitudes. Europeans show stronger repugnance concerns overall. They are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. Across both samples, inequality between parties is a powerful predictor of repugnance. Transactions are viewed as most objectionable when a poor individual sells to a rich individual and least objectionable when both parties are rich. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation.
-</em>
-</div>
 
-<br>
+
+**Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
 
 **Meritocracy and Social Cohesion** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [designing experiment]
 
-**Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
 
     
