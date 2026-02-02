@@ -56,7 +56,7 @@ environments affects efficiency, stability, and incentive properties of market d
 
 
 
-**Meritocracy and Social Cohesion** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [designing experiment]
+**Meritocracy and Social Cohesion** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [planning experiment]
 
 
 **Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
