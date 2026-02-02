@@ -37,7 +37,7 @@ Many donors leave tax benefits unclaimed even when doing so requires minimal eff
 **Inequality as a Constraint on (Repugnant) Markets** (with Jakob Schmidhäuser) [draft available soon!]
 <div style="text-align: justify;">
 <em>
-Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. We implement vignette experiments in US and European samples. Across both samples, inequality between parties is a powerful predictor of repugnance: transactions are viewed as most objectionable when a poor individual sells to a rich individual and least objectionable when both parties are rich. Between the two samples, we find clear differences in baseline attitudes. Europeans show stronger repugnance overall: they are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation.
+Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. We implement vignette experiments in US and European samples. Across both samples, inequality between parties is a powerful predictor of repugnance: transactions are viewed as most objectionable when a low-income individual sells to a medium-income individual and least objectionable when both parties are medium-income. Between the two samples, we find clear differences in baseline attitudes. Europeans show stronger repugnance overall: they are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation.
 </em>
 </div>
 
@@ -56,10 +56,10 @@ environments affects efficiency, stability, and incentive properties of market d
 
 
 
+**Meritocracy and Social Cohesion** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [designing experiment]
+
 
 **Think Before You Act** (with Michael Hilweg-Waldeck and Jonathan Stäbler) [collecting data]
-
-**Meritocracy and Social Cohesion** (tentative title) (with Henrik Orzen and Jonathan Stäbler) [designing experiment]
 
 
     
