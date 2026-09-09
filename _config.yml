@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Paul Ergün Hild"
-description              : &description "Ph.D. Candidate in Economics at University of Mannheim and ZEW Mannheim. Formerly known as Argun Hild."
+description              : &description "Postdoctoral Researcher in Economics at Humboldt University of Berlin."
 url                      : https://paulhild.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulhild/paulhild.github.io"
@@ -24,12 +24,12 @@ author:
   avatar           : "picture_1.jpg"
   name             : "Paul Ergün Hild"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics"
-  location         : "Mannheim, Germany"
-  employer         : "University of Mannheim <br> ZEW Mannheim"
+  bio              : "Postdoctoral Researcher in Economics"
+  location         : "Berlin, Germany"
+  employer         : "Humboldt University of Berlin"
   # employer         : "ZEW Mannheim"
   # uri              : "paul.hild@uni-mannheim.de # URLasa
-  email            : "paul.hild@uni-mannheim.de" 
+  email            : "paul.hild@hu-berlin.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

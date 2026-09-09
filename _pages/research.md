@@ -8,8 +8,8 @@ sitemap: false
 
 - Paper 1: Description of paper 1.
 - Paper 2: Description of paper 2. -->
+## Working Papers
 
-## Job Market Paper
 **Competing Against Stereotypes: Stereotyped Beliefs and Willingness To Compete** (with Michael Hilweg-Waldeck) [Draft](/files/papers/Hild_JMP.pdf)
 <div style="text-align: justify;">
 <em>
@@ -17,7 +17,6 @@ Career choice, earnings, and other key economic outcomes have been linked to gen
 </em>
 </div>
 
-## Working Papers
 **Why Don’t Donors Deduct? Social Norms and the Limits of Tax Incentives** (with Michael Hilweg-Waldeck)
 [Draft](/files/papers/Hild_WP.pdf)
 <div style="text-align: justify;">
